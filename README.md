@@ -7,3 +7,5 @@ Prerequisites Of GEN AI course
 6. OOPS
 7. NLP
 8. ANN_project (Customer churn rate prediction)
+
+## Refer Langchain repo for further...
