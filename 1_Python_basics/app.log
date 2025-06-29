@@ -1,0 +1,13 @@
+2025-06-29 18-36-13 - root - DEBUG - This is a Debug message
+2025-06-29 18-36-13 - root - INFO - This is a info message
+2025-06-29 18-36-13 - root - ERROR - This is a error message
+2025-06-29 18-36-13 - root - WARNING - This is a warning message
+2025-06-29 18-36-13 - root - CRITICAL - This is a critical message
+2025-06-29 18-36-42 - root - ERROR - This is a error message
+2025-06-29 18-36-42 - root - WARNING - This is a warning message
+2025-06-29 18-36-42 - root - CRITICAL - This is a critical message
+2025-06-29 18-36-58 - root - ERROR - This is a error message
+2025-06-29 18-36-58 - root - WARNING - This is a warning message
+2025-06-29 18-36-58 - root - CRITICAL - This is a critical message
+2025-06-29 18-36-58 - root - DEBUG - This is a Debug message
+2025-06-29 18-36-58 - root - INFO - This is a info message

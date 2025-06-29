@@ -1,1 +1,6 @@
 ipykernal
+pandas
+numpy
+lxml
+bs4
+html5

@@ -1,0 +1,9 @@
+2025-06-29 18-51-49 - ArithmeticApp - DEBUG - Adding {a} + {b} = {result}
+2025-06-29 18-51-49 - ArithmeticApp - DEBUG - Subtracting {a} - {b} = {result}
+2025-06-29 18-51-49 - ArithmeticApp - DEBUG - Multiplying {a} * {b} = {result}
+2025-06-29 18-51-49 - ArithmeticApp - DEBUG - Dividing {a} / {b} = {result}
+2025-06-29 18-52-13 - ArithmeticApp - DEBUG - Adding {a} + {b} = {result}
+2025-06-29 18-52-13 - ArithmeticApp - DEBUG - Subtracting {a} - {b} = {result}
+2025-06-29 18-52-13 - ArithmeticApp - DEBUG - Multiplying {a} * {b} = {result}
+2025-06-29 18-52-13 - ArithmeticApp - DEBUG - Dividing {a} / {b} = {result}
+2025-06-29 18-52-13 - ArithmeticApp - ERROR - Division by Zerp error
